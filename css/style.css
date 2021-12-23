@@ -153,11 +153,11 @@ span {
 		font-family: 'Poppins', sans-serif;
 
 	}
-	
+
 	img .imgs{
 		width: 30%;
 		height: 30%;
-		
+
 	}
 	#imagem1{
 		margin-top: 8%;
@@ -187,7 +187,7 @@ span {
   transition-property: all;
   -webkit-transition-duration:  0.5s;
   transition-duration: 0.5s;
-	
+
 }
 .hvr-sweep-to-left:before {
 	border-radius: 31px;
